@@ -1,4 +1,4 @@
 # computer_graphics
 graphics_programs 
 
-using open gl library folloeing codes have been done.
+using open GLUT and openGL libraries following graphics codes have been implemented.
